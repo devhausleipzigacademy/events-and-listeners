@@ -132,10 +132,10 @@ const child = document.querySelector(".child");
 Can you replicate the behavior of all of these CSS pseudo-selectors using JavaScript?
 
 
-:hover        // hint: mouseover, mouseout events
-:active       // hint: mousedown, mouseup events
-:focus        // hint: focus, blur events
-:empty        // hint: element.children.length > 0
+:hover        // hint: use mouseover, mouseout events
+:active       // hint: use mousedown, mouseup events
+:focus        // hint: use focus, blur events
+:empty        // hint: check if element.children.length > 0
 
 
 https://www.w3schools.com/cssref/css_selectors.asp
